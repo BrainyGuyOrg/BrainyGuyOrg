@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have had an interest in software performance for a long time.
+I have had an interest in software performance for a many years.
 I am currently working on [BrainyGuy Logger](https://github.com/BrainyGuyOrg/logger).
 I would love to get feedback on this project.
 
 I am currently learning more about CPU performance counters and the Linux Perf subsystem.
 
-I have been getting paid to write computer software since 1981.
+I have been a professional computer programmer since 1981.
 My strongest programming language is C++, with C and many others close seconds.
 I currently live in sunny California.
